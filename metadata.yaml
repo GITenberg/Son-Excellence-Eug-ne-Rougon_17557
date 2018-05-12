@@ -1,0 +1,59 @@
+_repo: Son-Excellence-Eug-ne-Rougon_17557
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: "Son Excellence Eugène Rougon is the sixth novel in the Rougon-Macquart\
+  \ series by Émile Zola. It was serialized in 1876 in Le Siècle before being published\
+  \ in novel form by Charpentier. It was translated into English by Mary Neal Sherwood\
+  \ (as Clorinda) in 1880, by Kenward Philp (as The Mysteries of Louis Napoleon's\
+  \ Court) in 1884, by Ernest A. Vizetelly in 1897 (reprinted 2006), by Alec Brown\
+  \ in 1958, and by Brian Nelson in 2018.\nThe novel is set in the highest echelons\
+  \ of Second Empire government. It follows the career of Eugène Rougon and a dozen\
+  \ or so of his cronies as they jockey for political favor and personal gain, and\
+  \ embraces the public and personal life of Emperor Napoleon III.\nThe main character\
+  \ is Eugène Rougon (b. 1811), the eldest son of Pierre and Félicité Rougon. Eugène\
+  \ is first introduced in La fortune des Rougon as a key player in the coup d'état\
+  \ of 1851 which established Napoleon III as Emperor of the French. Eugène's maneuverings\
+  \ establish his parents' control over the town of Plassans and lay the foundations\
+  \ for solidifying the family fortune. Eugène, acknowledged as one of the prime movers\
+  \ in legitimizing the Emperor, has remained in Paris to further his quest for power.\n\
+  Eugène's brothers are Pascal, who is the main character of Le docteur Pascal, and\
+  \ Aristide, whose story is told in La curée and L'argent. He also has two sisters:\
+  \ Sidonie, who appears in La curée, and Marthe, one of the protagonists of La conquête\
+  \ de Plassans.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17557'
+  wikidata: Q1754235
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Second Empire, 1852-1870 -- Fiction'
+- !lcc 'PQ'
+title: Son Excellence Eugène Rougon
+url: http://www.gutenberg.org/ebooks/17557
+wikipedia:
+- https://fr.wikipedia.org/wiki/Son_Excellence_Eug%C3%A8ne_Rougon
+- https://fa.wikipedia.org/wiki/%D8%B9%D8%A7%D9%84%DB%8C%D8%AC%D9%86%D8%A7%D8%A8_%D8%A7%D9%88%DA%98%D9%86_%D8%B1%D9%88%DA%AF%D9%86
+- https://de.wikipedia.org/wiki/Seine_Exzellenz_Eug%C3%A8ne_Rougon
+- https://pl.wikipedia.org/wiki/Jego_ekscelencja_Pan_Minister_Rougon
+- https://en.wikipedia.org/wiki/Son_Excellence_Eug%C3%A8ne_Rougon
+- https://it.wikipedia.org/wiki/Sua_Eccellenza_Eug%C3%A8ne_Rougon
+- https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%BE_%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%AD%D0%B6%D0%B5%D0%BD_%D0%A0%D1%83%D0%B3%D0%BE%D0%BD
+- https://fr.wikisource.org/wiki/Son_Excellence_Eug%C3%A8ne_Rougon
