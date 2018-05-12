@@ -33,6 +33,8 @@ description: "Son Excellence Eugène Rougon is the sixth novel in the Rougon-Mac
   \ Aristide, whose story is told in La curée and L'argent. He also has two sisters:\
   \ Sidonie, who appears in La curée, and Marthe, one of the protagonists of La conquête\
   \ de Plassans.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17557#Son-Excellence-Eug-ne-Rougon
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-01-20'
 gutenberg_type: Text
